@@ -1,0 +1,34 @@
+[
+	{
+		"code": "&vup",
+		"name": "&vup",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&vdown",
+		"name": "&vdown",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&pp",
+		"name": "&pp",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&ff",
+		"name": "&ff",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
